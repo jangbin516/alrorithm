@@ -1,0 +1,18 @@
+# Executables
+*.exe
+*.out
+*.o
+
+# VSCode settings
+.vscode/
+
+# Input/Output files
+input.txt
+output.txt
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Temporary logs
+*.log
